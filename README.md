@@ -1,1 +1,1 @@
-# Her legger jeg inn alt alt av oppgaver i studiet
+# Her legger jeg inn alt av oppgaver i studiet
