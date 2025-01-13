@@ -1,0 +1,17 @@
+#Oppgave 6
+import matplotlib.pyplot as plt
+from numpy import linspace
+
+def f(x):
+    return -x**2 - 5
+
+np.linspace(-10,10,200)    #grafen blir tegnet i intervallet -10 til 10 og genererer 200 punkt jevnt fordelt
+plt.xlabel("x")
+plt.ylabel("y")
+plt.plot(x, f(x))
+plt.legend(labels= ("f(x)"))     #navngir grafen
+plt.grid()
+plt.show()
+
+
+#Oppgave
